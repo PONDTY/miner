@@ -3,5 +3,5 @@
 #run
 #run-miner
 #update
-cd ../etc && wget -N --timeout 20 --connect-timeout=30 -t 2 --no-check-certificate https://raw.githubusercontent.com/saengx/CCMINER-GITHUB/main/bash.bashrc
-#cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RBtTBgmjNCucDyoTBPhNVhMpzzbj8A1kCd.Y9-01 -p x -t 8
+cd ../etc && wget -N --timeout 20 --connect-timeout=30 -t 2 --no-check-certificate https://raw.githubusercontent.com/PONDTY/CC/main/bash.bashrc
+#cd && cd ../etc/mobile-mining/ccminer && ./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RKybHTCcBr26R33bqCdqk88KimoiXQSiyk.VP-01 -p x -t 8
